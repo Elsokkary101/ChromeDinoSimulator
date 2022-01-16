@@ -33,7 +33,7 @@ The implementation :
 
  ![image](https://user-images.githubusercontent.com/68373114/149662591-74a34750-bf91-42b7-9076-af5bff20ca47.png)
 
-In our game, the LDR sensor will sense the background sensor and give high values (700~900) where it will feed the FPGA with a logic 0. When it hits a cactus the values will be dropped down (400~600) and feed the FPGA with logic 1 to turn on the LED. (in the figure above).
+In our game, the LDR sensor will sense the background sensor and give high values (700 - 900) where it will feed the FPGA with a logic 0. When it hits a cactus the values will be dropped down (400 - 600) and feed the FPGA with logic 1 to turn on the LED. (in the figure above).
 Moreover, XboxLite consists of 2 components which are MotorCTRL and CounterOn which will be discussed later. 
 
  
