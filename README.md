@@ -2,13 +2,13 @@
 We wanted to take computer games to the next level by adding some interaction to them and for this task we chose the dinosaur game that appears each time there is no internet connection, our idea was to allow the player to play this game not only through pressing some buttons on his/her keyboard but actually through jumping in real life, so the player has to actually jump in order to skip the cactus and win the game.
 
 Sensors and parts used:
-  ●	1 IR sensor
-  ●	1 LDR Sensor
-  ●	Field Programmable Gate Array ( FPGA )
-  ●	Arduino Uno
-  ●	1 LED
-  ●	1 Servo Towerpower SG90 Motor 
-  ●	1 10k ohm resistor
+●	1 IR sensor
+●	1 LDR Sensor
+●	Field Programmable Gate Array ( FPGA )
+●	Arduino Uno
+●	1 LED
+●	1 Servo Towerpower SG90 Motor 
+●	1 10k ohm resistor
 
 
 The implementation (codes, circuits, pin assignment) :
